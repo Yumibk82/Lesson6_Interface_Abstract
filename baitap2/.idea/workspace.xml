@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4c8f5fe-ba71-408e-8d42-4314f3b51a05" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../baitap2/Circle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap2/Colorable.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap2/Cylinder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap2/Rectangle.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap2/Shape.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap2/Square.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../baitap2/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    <list default="true" id="ed8a8f6b-0e46-449b-aac2-4fc4706ad7c4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Colorable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap1/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap1/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson6_thuchanh1_Animal/Animal.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson6_thuchanh1_Animal/Apple.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../lesson6_thuchanh1_Animal/Chicken.php" beforeDir="false" />
@@ -36,32 +36,29 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1iluleU9higPX3vBzBpi13mUJ2x" />
+  <component name="ProjectId" id="1inlMWvbf2gQXqdmeCiLNflV4TE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../baitap2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d4c8f5fe-ba71-408e-8d42-4314f3b51a05" name="Default Changelist" comment="" />
-      <created>1602494652169</created>
+      <changelist id="ed8a8f6b-0e46-449b-aac2-4fc4706ad7c4" name="Default Changelist" comment="" />
+      <created>1602551188688</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602494652169</updated>
-      <workItem from="1602494653279" duration="2981000" />
-      <workItem from="1602550496474" duration="661000" />
-      <workItem from="1602551179613" duration="9000" />
+      <updated>1602551188688</updated>
+      <workItem from="1602551189746" duration="1191000" />
     </task>
     <servers />
   </component>
@@ -69,9 +66,13 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602551183724">
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602552380544">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1602551183724" />
+    <state x="779" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1602552380544" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1602552232930">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1602552232930" />
   </component>
 </project>
